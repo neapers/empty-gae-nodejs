@@ -1,0 +1,21 @@
+{
+  "name": "empty-gae-nodejs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/neap/empty-gae-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/neap/empty-gae-nodejs/issues"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Brendan Johnson",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
