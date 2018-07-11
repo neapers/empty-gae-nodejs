@@ -7,7 +7,7 @@ Empty NodeJS template for Google App Engine
 > * [Install](#install) 
 > * [How To Use It](#how-to-use-it) 
 >   - [Deploy](#config)
-> * [About Neap](#this-is-what-we-re-up-to)
+> * [About Neap](#about-us)
 > * [License](#license)
 
 
@@ -23,11 +23,16 @@ npm install
 > Prerequisites: Make sure you have the Google Cloud SDK Tools installed!
 
 __*Test you have Google Cloud SDK Tools installed*__: `gcloud -v`
-__*Log in using your Google Account*__: `gcloud init`
-__*Make sure you're using the right project*__: `gcloud config set project project-name` (Please note that this project needs to have already have been created in the Google Cloud Console)
-__*Deploy*__: `gcloud app deploy`
-__*Test in Browser*__: `gcloud app browse`
 
+__*Log in using your Google Account*__: `gcloud init`
+
+__*Make sure you're using the right project*__: `gcloud config set project project-name` (Please note that this project needs to have already have been created in the Google Cloud Console)
+
+__*Deploy*__: `gcloud app deploy`
+
+__*Open it in your browser*__: `gcloud app browse`
+
+<a name="about-us"></a>
 # This Is What We're Up To
 We are Neap, an Australian Technology consultancy powering the startup ecosystem in Sydney. We simply love building Tech and also meeting new people, so don't hesitate to connect with us at [https://neap.co](https://neap.co).
 
